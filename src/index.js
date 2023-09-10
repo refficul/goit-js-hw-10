@@ -7,7 +7,6 @@ const select = document.querySelector('.breed-select');
 const loader = document.querySelector('.loader');
 const errorText = document.querySelector('.error');
 const catInfoDiv = document.querySelector('.cat-info');
-
 errorText.classList.add('hide');
 select.classList.toggle('hide');
 

@@ -7,6 +7,7 @@
 
 .cat-foto {
   padding-left: 10px;
+  max-width: 40vw;
 }
 
 .cat-desc {
@@ -41,3 +42,4 @@
     width: 50%;
   }
 }
+/* font-size: calc(24px + (16 + 16 * 1) * ((100vw - 280px) / 480)); */

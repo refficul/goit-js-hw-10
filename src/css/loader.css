@@ -33,15 +33,15 @@
   margin: 0;
   padding: 0;
 }
-html,
-body {
+.loader-wrap {
   height: 100vh;
+  background-color: rgba(33, 33, 33, 0.137);
+  font-family: arial;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #212121;
-  font-family: arial;
 }
+
 .wheel-and-hamster {
   --dur: 1s;
   position: relative;
